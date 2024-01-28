@@ -25,6 +25,7 @@ Like a regular site.
 
 - HTML5
 - CSS3
+- TypeScript
 - React
 - Vite
 - Redux
