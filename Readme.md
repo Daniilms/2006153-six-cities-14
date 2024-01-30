@@ -1,7 +1,7 @@
 # Web-app 'Six-cities'
 
 ## About 
-This site is showing different offers near Amsterdam.
+This site shows different rent options near Amsterdam.
 
 ## Current status
 
